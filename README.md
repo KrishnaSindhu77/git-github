@@ -1,3 +1,2 @@
 # git-github
-this is for devops
-tis is for tutorial purose
+this is for tutorial purpose
