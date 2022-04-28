@@ -1,2 +1,2 @@
 # git-github
-this is for git information
+this is for devops
